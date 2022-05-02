@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HFWPFSWORDDAMAGE2", "HFWPFSWORDDAMAGE2\HFWPFSWORDDAMAGE2.csproj", "{D213F700-601F-488E-83D6-8239B36D822B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D213F700-601F-488E-83D6-8239B36D822B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D213F700-601F-488E-83D6-8239B36D822B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D213F700-601F-488E-83D6-8239B36D822B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D213F700-601F-488E-83D6-8239B36D822B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48708AA5-5584-4AF8-ABA3-118FC11F4E61}
+	EndGlobalSection
+EndGlobal
